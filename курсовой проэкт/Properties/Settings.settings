@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="organizer.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="todoFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">todo.txt</Value>
+    </Setting>
+    <Setting Name="doneFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">done.txt</Value>
+    </Setting>
+    <Setting Name="location" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
